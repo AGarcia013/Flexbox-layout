@@ -1,0 +1,5 @@
+/*no he entendido para que venía este archivo css, no sé si tenía que escribir aquí. He modificado el archivo style.css para que se mostras como una flexbox,
+/* la propiedad order para ordenar los elemetos. Y la propiedad flex para que la sección naranja sea 3 veces las demás. Como en los otros ejercicios solo venía un archivo
+/*css vacío no estaba seguro si tenía que escribir aquí desde 0 o solo editar el archivo que ya venía. En el enunciado no especificaba nada. Por otro lado, no entiendo
+/*la unidad de medida em, se supone que esta toma de referencia el tamaño del elemento actual, si el tamaño es 16px, 1em=16px, pero en el style.css no hay ninguna medida
+/*de referencia, solo indica que el width es 60em, ¿pero que cantida de px  está tomando de referencia?
